@@ -1,0 +1,22 @@
+---
+title: "Workshop Deliverables"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+There are 8 major deliverables that you will complete for this workshop:
+
+| Deliverable | Due Date | Description |
+|---------------------------------------------------------|----------------------------|----------------------------------------------------------------|
+| **[Class Paperwork](01_paperwork.qmd) (Individual)** | 1/23/2026 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
+| **Individual Learning Goals** | 1/30/2026 | Individual memo on workshop learning goals and areas of leadership. |
+| **Weekly Group Memo** | Weekly starting 1/30/2026 | Weekly team update memo on group progress. |
+| **Draft Report Components** |  | Submit draft plan components for group review and peer feedback. |
+| **Draft Report - Internal Review** |  | Draft plan for internal review. |
+| **Draft Reoirt - External Review** |  | Draft plan for external review and sharing with the comprehensive plan committee. |
+| **Plan Presentation to CILBA Board** | TBD | Final report presentation to CILBA board. |
+| **Final Assessment (Individual)** | 5/8/2026 | Individual final assessment of semester learning and leadership goals and assessment of peers. |
+
+It is important to review the details of each of these deliverables, particularly since some have both draft and final components with separate deliverable dates. We will discuss this more during the first two weeks of class and will update based upon our shared expectations and timeline.

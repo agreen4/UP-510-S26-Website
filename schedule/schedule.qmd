@@ -1,0 +1,28 @@
+---
+title: "Schedule"
+format: html
+toc: true
+sidebar: false
+editor: source
+---
+
+Our weekly workshop sessions are two hours and fifty minutes in length. For most sessions, we will start with a team meeting, open up time to work together on deliverables, and will then confer at the end of the session on expected deliverables and updates for the next week. Over the course of the term, there will be some meetings and site visits that occur outside of our scheduled class time.
+
+|           |                          |                 |
+|-----------|--------------------------|-----------------|
+| **Date**  | **Session**              | **Description** |
+| 1/23/2026 |                          |                 |
+| 1/30/2026 |                          |                 |
+| 2/6/2026  |                          |                 |
+| 2/13/2026 |                          |                 |
+| 2/20/2026 |                          |                 |
+| 2/27/2026 | Independent Work Session |                 |
+| 3/6/2026  |                          |                 |
+| 3/13/2026 |                          |                 |
+| 3/20/2026 | Spring Break - No Class  |                 |
+| 3/27/2026 |                          |                 |
+| 4/3/2026  |                          |                 |
+| 4/10/2026 |                          |                 |
+| 4/17/2026 |                          |                 |
+| 4/24/2026 |                          |                 |
+| 5/1/2026  |                          |                 |
