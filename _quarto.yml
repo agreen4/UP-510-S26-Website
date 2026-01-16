@@ -24,28 +24,6 @@ website:
     left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
     right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
 
-  sidebar:
-    - title: "Deliverables"
-      style: "docked"
-      contents:
-        - section: "Deliverables Overview"
-          contents:
-            - text: "Class Paperwork"
-              file: schedule/01_paperwork.qmd
-            - text: "Learning Goals"
-              file: schedule/02_learning.qmd
-            - text: "Weekly Group Memo"
-              file: schedule/03_groupmemo.qmd
-            - text: "Draft Plan Components"
-              file: schedule/04_plancomponents.qmd
-            - text: "Draft Plan - Internal Review"
-              file: schedule/05_draftplan1.qmd
-            - text: "Draft Plan - External Review"
-              file: schedule/06_draftplan2.qmd
-            - text: "Plan Presentation to Village"
-              file: schedule/07_presentation.qmd
-            - text: "Final Assessment"
-              file: schedule/08_assessment.qmd
 
 format:
   html:

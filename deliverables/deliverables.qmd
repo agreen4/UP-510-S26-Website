@@ -6,17 +6,23 @@ sidebar: true
 editor: source
 ---
 
-There are 8 major deliverables that you will complete for this workshop:
+## Internal Deliverables
 
 | Deliverable | Due Date | Description |
-|---------------------------------------------------------|----------------------------|----------------------------------------------------------------|
-| **[Class Paperwork](01_paperwork.qmd) (Individual)** | 1/23/2026 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
+|--------------------------|------------------|----------------------------|
+| [**Class Paperwork**](01_paperwork.qmd) **(Individual)** | 1/23/2026 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
 | **Individual Learning Goals** | 1/30/2026 | Individual memo on workshop learning goals and areas of leadership. |
-| **Weekly Group Memo** | Weekly starting 1/30/2026 | Weekly team update memo on group progress. |
-| **Draft Report Components** |  | Submit draft plan components for group review and peer feedback. |
-| **Draft Report - Internal Review** |  | Draft plan for internal review. |
-| **Draft Reoirt - External Review** |  | Draft plan for external review and sharing with the comprehensive plan committee. |
-| **Plan Presentation to CILBA Board** | TBD | Final report presentation to CILBA board. |
 | **Final Assessment (Individual)** | 5/8/2026 | Individual final assessment of semester learning and leadership goals and assessment of peers. |
 
-It is important to review the details of each of these deliverables, particularly since some have both draft and final components with separate deliverable dates. We will discuss this more during the first two weeks of class and will update based upon our shared expectations and timeline.
+## External Deliverables
+
+CILBA has created a Scope of Work that will guide our workshop deliverables in this workshop - these deliverables include:
+
+1.  **Member Workplans:** finalize all workplans, project visualization (GIS mapping), and project prioritization. Site visits can be conducted to better understand implementation priorities.
+2.  **Survey of CILBA members and other selected communities**
+    a.  State of Practice survey to determine member baseline.  How much is each community doing to address demolitions, rehabs, new construction, and commercial?
+    b.  Code Enforcement staffing and approach – complaint driven system or proactive approach?
+    c.  Local Implementation Funding: Tax Increment Financing, dedicated gaming revenues, Foundations/philanthropy, other
+    d.  Economic Development/Jobs and Employer Housing Needs – where specifically is more housing necessary to sustain/attract more jobs
+3.  **Research and Policy analysis**: summarize opportunities to implement Illinois’ Housing Blueprint and build partnerships to sustain community development work across a large geographic region.
+    a.  For new construction residential projects: how many permits pulled over last decade, what contractors/developers pulled permits, what size project built and sales prices

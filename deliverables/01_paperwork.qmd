@@ -19,5 +19,3 @@ Upload your course paperwork as separate PDF documents to the Box using the belo
 2. AICP Code of Ethics and Professional Conduct: LastName_FirstName_AICP.pdf
 
 Where LastName is your surname (last name) and FirstName is your first name. Improperly named files will be considered not submitted.
-
-<iframe src="" height="900" width="800"></iframe>
