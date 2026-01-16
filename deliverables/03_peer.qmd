@@ -1,0 +1,17 @@
+---
+title: "Peer Assessment"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Deliverable Description
+
+Over the course of the semester, you've had the chance to work closely together, taking individual and collective responsibility for our workshop deliverables. Peer feedback provides important information to you and to the workshop facilitator, and helps to highlight your contributions to our collective work this semester.
+
+You will use the same form to provide both a self evaluation and also evaluation of your peers in this workshop. Selected elements of this evaluation will be shared with your peers and others will be confidential and only viewed by the instructor. All peer feedback will be anonymous.
+
+## Submission Instructions
+
+Please complete the following online peer evaluation form. After evaluations are complete, you will receive individual results along with instructor feedback.

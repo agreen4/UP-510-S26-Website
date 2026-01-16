@@ -10,13 +10,13 @@ editor: source
 
 | Deliverable | Due Date | Description |
 |--------------------------|------------------|----------------------------|
-| [**Class Paperwork**](01_paperwork.qmd) **(Individual)** | 1/23/2026 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
-| **Individual Learning Goals** | 1/30/2026 | Individual memo on workshop learning goals and areas of leadership. |
-| **Final Assessment (Individual)** | 5/8/2026 | Individual final assessment of semester learning and leadership goals and assessment of peers. |
+| [**Class Paperwork**](01_paperwork.qmd) | 1/23/2026 | Complete course paperwork associated with workshop intellectual property and ethical conduct. |
+| [**Learning Goals**](02_learning.qmd) | 1/30/2026 | Individual memo on workshop learning goals and areas of leadership. |
+| [**Peer Assessment**](03_peer.qmd) | 5/8/2026 | Individual peer assessment of semester learning and leadership goals and assessment of peers. |
 
 ## External Deliverables
 
-CILBA has created a Scope of Work that will guide our workshop deliverables in this workshop - these deliverables include:
+CILBA has created a [Scope of Work](CILBA 2026 Plan Making Workshop - University of Illinois - Dept of Urban and Regional Planning.pdf) that will guide our workshop deliverables in this workshop - these deliverables include:
 
 1.  **Member Workplans:** finalize all workplans, project visualization (GIS mapping), and project prioritization. Site visits can be conducted to better understand implementation priorities.
 2.  **Survey of CILBA members and other selected communities**

@@ -1,0 +1,29 @@
+---
+title: "Learning Goals"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Deliverable Description
+
+Workshops are built around learning by doing. While the majority of our workshop deliverables this semester will be collective efforts, each workshop participant has individual strengths, areas for growth, and goals that they may want to pursue over the course of the semester.
+
+As an instructor, I want to ensure that each of you has the opportunity to lead various elements of our planning process and that you are able to demonstrate leadership both in areas of strength and in areas you wish to grow in. To help me better understand your own goals for this workshop, please write a short (2-page) memo that addresses the following:
+
+1. Professional Goals - what are your professional goals for the time period after you complete your graduate degree.
+
+2. Areas of strength - what areas do you see yourself as being strong in or easily able to take a leadership role in? What kinds of experiences, challenges, or opportunities in our workshop do you envision playing to these areas of strength?
+
+3. Areas for growth - what areas do you see yourself as wanting to grow in? What kinds of experiences, challenges, or opportunities in our workshop might help you grow in these areas?
+
+4. Support and Feedback - what kinds of support and feedback will be most useful to you in growing as a leader and professional throughout our workshop this semester?
+
+## Submission Instructions
+
+Upload your memorandum as a PDF document to Box. Save your file using the following naming convention:
+
+LastName_FirstName_Goals.pdf
+
+Where LastName is your surname (last name) and FirstName is your first name. Improperly named files will be considered not submitted.
