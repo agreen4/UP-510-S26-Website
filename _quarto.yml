@@ -18,6 +18,8 @@ website:
         text: "Deliverables"
       - href: schedule/schedule.qmd
         text: "Schedule"
+      - href: resources/resources.qmd
+        text: "Resources"
     search: true
   favicon: favicon.png
   page-footer:

@@ -1,0 +1,27 @@
+---
+title: "Resources"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## CILBA Member Communities
+
+| Community | County |
+|----------------------------|---------------------|
+| [Casey](https://www.cityofcaseyil.org) | [Clark](https://www.clarkcountyil.org) |
+| [Georgetown](https://georgetownil.net) | [Vermilion](https://www.vercounty.org) |
+| [Martinsville](https://martinsvilleil.com) | [Clark](https://www.clarkcountyil.org) |
+| [Mattoon](https://mattoon.illinois.gov) | [Coles](https://www.colesco.illinois.gov) |
+| [Mount Sterling](https://mtsterlingil.com) | [Brown](https://www.browncoil.org) |
+| [Nokomis](https://cityofnokomis.com) | [Montgomery](https://montgomerycountyil.gov) |
+| [Oakwood](https://www.oakwoodil.org) | [Vermilion](https://www.vercounty.org) |
+| [Paxton](https://www.cityofpaxton.com) | [Ford](https://fordcounty.illinois.gov) |
+| [Pontiac](https://www.pontiac.org) | [Livingston](https://www.livingstoncountyil.gov) |
+| [Ridge Farm](https://ridgefarmillinois.com) | [Vermilion](https://www.vercounty.org) |
+| [Westville](https://villageofwestville.com) | [Vermilion](https://www.vercounty.org) |
+
+: CILBA Member Communities
+
+
