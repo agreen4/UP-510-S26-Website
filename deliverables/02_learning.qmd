@@ -22,7 +22,7 @@ As an instructor, I want to ensure that each of you has the opportunity to lead 
 
 ## Submission Instructions
 
-Upload your memorandum as a PDF document to Box. Save your file using the following naming convention:
+Upload your memorandum as a PDF document to your individual work folder on Box. Save your file using the following naming convention:
 
 LastName_FirstName_Goals.pdf
 
