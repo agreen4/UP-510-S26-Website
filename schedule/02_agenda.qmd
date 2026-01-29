@@ -23,6 +23,7 @@ editor: source
 - What information will help us tell the broader story of housing and economic activity in central Illinois?
 
 - What existing information can you find on member communities? Are there plans, policy documents, datasets, etc. that would be useful to our work?
+
 ### Break / Team Headshots
 
 ### Prep for 2/5 CILBA Board Meeting
@@ -32,6 +33,7 @@ editor: source
 - How will we introduce our work to representatives from member communities?
 
 - What's the best way to frame our work to community stakeholders?
+
 ### Prep for 2/6 Site Visit
 
 - What questions do we want to make sure we have answers to during this initial visit?
