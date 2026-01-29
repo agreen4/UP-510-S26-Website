@@ -8,19 +8,19 @@ editor: source
 
 ## CILBA Member Communities
 
-| Community | County |
-|----------------------------|---------------------|
-| [Casey](https://www.cityofcaseyil.org) | [Clark](https://www.clarkcountyil.org) |
-| [Georgetown](https://georgetownil.net) | [Vermilion](https://www.vercounty.org) |
-| [Martinsville](https://martinsvilleil.com) | [Clark](https://www.clarkcountyil.org) |
-| [Mattoon](https://mattoon.illinois.gov) | [Coles](https://www.colesco.illinois.gov) |
-| [Mount Sterling](https://mtsterlingil.com) | [Brown](https://www.browncoil.org) |
-| [Nokomis](https://cityofnokomis.com) | [Montgomery](https://montgomerycountyil.gov) |
-| [Oakwood](https://www.oakwoodil.org) | [Vermilion](https://www.vercounty.org) |
-| [Paxton](https://www.cityofpaxton.com) | [Ford](https://fordcounty.illinois.gov) |
-| [Pontiac](https://www.pontiac.org) | [Livingston](https://www.livingstoncountyil.gov) |
-| [Ridge Farm](https://ridgefarmillinois.com) | [Vermilion](https://www.vercounty.org) |
-| [Westville](https://villageofwestville.com) | [Vermilion](https://www.vercounty.org) |
+| Community | County | 2022 IL Housing Blueprint Region |
+|----------------------------------------|-------------------------------|--|
+| [Casey](https://www.cityofcaseyil.org) | [Clark](https://www.clarkcountyil.org) | [East Central Region](https://ilhousingblueprint.org/wp-content/uploads/2023/04/East-Central-Regional-Profile.pdf) |
+| [Georgetown](https://georgetownil.net) | [Vermilion](https://www.vercounty.org) | [Champaign Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Champaign-Regional-Profile.pdf) |
+| [Martinsville](https://martinsvilleil.com) | [Clark](https://www.clarkcountyil.org) | [East Central Region](https://ilhousingblueprint.org/wp-content/uploads/2023/04/East-Central-Regional-Profile.pdf) |
+| [Mattoon](https://mattoon.illinois.gov) | [Coles](https://www.colesco.illinois.gov) | [East Central Region](https://ilhousingblueprint.org/wp-content/uploads/2023/04/East-Central-Regional-Profile.pdf) |
+| [Mount Sterling](https://mtsterlingil.com) | [Brown](https://www.browncoil.org) | [West Central Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/West-Central-Regional-Profile.pdf) |
+| [Nokomis](https://cityofnokomis.com) | [Montgomery](https://montgomerycountyil.gov) | [Central / Springfield Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Central-Springfield-Regional-Profile.pdf) |
+| [Oakwood](https://www.oakwoodil.org) | [Vermilion](https://www.vercounty.org) | [Champaign Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Champaign-Regional-Profile.pdf) |
+| [Paxton](https://www.cityofpaxton.com) | [Ford](https://fordcounty.illinois.gov) | [Champaign Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Champaign-Regional-Profile.pdf) |
+| [Pontiac](https://www.pontiac.org) | [Livingston](https://www.livingstoncountyil.gov) | [Bloomington Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Bloomington-Regional-Profile.pdf) |
+| [Ridge Farm](https://ridgefarmillinois.com) | [Vermilion](https://www.vercounty.org) | [Champaign Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Champaign-Regional-Profile.pdf) |
+| [Westville](https://villageofwestville.com) | [Vermilion](https://www.vercounty.org) | [Champaign Region](https://ilhousingblueprint.org/wp-content/uploads/2022/11/Champaign-Regional-Profile.pdf) |
 
 : CILBA Member Communities
 
@@ -34,8 +34,8 @@ Illinois Housing Development Authority - [Home Repair and Community Revitalizati
 
 [Illinois Institute for Rural Affairs](https://iira.org)
 
-  - [Community and Economic Development Resources](https://iira.org/rural-resource-guide/resources-community-and-economic-development/)
-  
-  - [Housing](https://iira.org/rural-resource-guide/resources-housing/)
-  
-  - [Transportation](https://iira.org/rural-resource-guide/resources-infrastructure-transportation-programs/)
+-   [Community and Economic Development Resources](https://iira.org/rural-resource-guide/resources-community-and-economic-development/)
+
+-   [Housing](https://iira.org/rural-resource-guide/resources-housing/)
+
+-   [Transportation](https://iira.org/rural-resource-guide/resources-infrastructure-transportation-programs/)
