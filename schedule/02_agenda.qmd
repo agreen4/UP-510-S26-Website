@@ -6,6 +6,8 @@ editor: source
 ---
 ## Meeting Agenda
 
+### Check-In / Individual Updates
+
 ### Work Plan Development / Scheduling
 
 - In our first session, we were introduced to CILBA, member communities, and some of the needs in which CILBA would like us to help with as part of our workshop.
